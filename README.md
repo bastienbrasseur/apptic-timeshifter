@@ -122,9 +122,11 @@ Les données encodées appartiennent à l'organisation cliente. Sa base est sauv
 
 ## Voir Time Shifter
 
-Time Shifter n'a pas de démonstration en accès libre : l'application n'est servie qu'à des comptes connus.
+- **Sur le site**, un planning simplifié se manipule directement dans la page : [timeshifter.apptic.be](https://timeshifter.apptic.be).
+- **Essai de 15 jours**, sur demande, dans un espace créé pour votre organisation.
+- **Démonstration en visioconférence**, sur des données fictives, avec les métiers de votre organisation.
 
-Une démonstration se fait en visioconférence, sur des données fictives, avec les métiers de votre organisation.
+L'application complète n'est servie qu'à des comptes connus.
 
 - Site : [timeshifter.apptic.be](https://timeshifter.apptic.be)
 - Contact : info@apptic.be
